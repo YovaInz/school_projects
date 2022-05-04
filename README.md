@@ -1,1 +1,1 @@
-# school_projects
+# Practicas de programación 6AVP
