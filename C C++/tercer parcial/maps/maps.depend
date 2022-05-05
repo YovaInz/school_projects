@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651714425 source:c:\users\estudiante\desktop\maps\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string>
+	<sstream>
+
